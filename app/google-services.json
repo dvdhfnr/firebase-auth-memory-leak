@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629584269337",
+    "project_id": "test-c899b",
+    "storage_bucket": "test-c899b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629584269337:android:baf64790938e8c2f95da88",
+        "android_client_info": {
+          "package_name": "org.openbot.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629584269337-20toqgoboo8hc5d6d4349aegcs266lm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7zMeY20OsRe0eR8xMRe7lC3y13YBWY9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629584269337-20toqgoboo8hc5d6d4349aegcs266lm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
